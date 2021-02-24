@@ -19,7 +19,7 @@ Licencia (usar una creative commons: revisar en https://creativecommons.org/lice
 
 Fecha : 2021
 
-Medios (donde se tiene presencia):
+Medios (donde se tiene presencia): Instagram, Twitter, Youtube, Facebook
 
 :octocat: (github url)
 Twitter
