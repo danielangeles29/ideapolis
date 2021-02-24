@@ -51,6 +51,12 @@ publicidad: banner: redes sociales, e-mail
 Etapa 3: Técnicas de evaluación utilizadas
 (Estrategia que plantearías para evaluar tu propuesta, medidores e indicadores de éxito, elige / propone)
 
+  1.Hacer un estudio de mercado
+  2.Realizar encuestas a amigos para ver su interes por la comunidad
+  3.Realizar focus group
+  4.Validar el éxito de otras páginas o apps similares
+
+Forma de evaluar el desempeño del producto, una vez puesto en marcha
   1. Cantidad de visitas a la página web
   2. Número de publicaciones compartidas
   3. Número de lugares comentados
