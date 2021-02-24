@@ -7,7 +7,7 @@ Titulo : Escape
 
 Autor(es) Daniel, Daniela y Juanjo
 
-Resumen : _________
+Resumen : Comunidad de viajeros para compartir experiencias en tiempos de pandemia y como poder viajar seguros a partir de ahora y en el periodo post-COVID
 
 logotipo : ________
 
