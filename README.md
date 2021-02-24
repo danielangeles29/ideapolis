@@ -3,23 +3,23 @@
 
 Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión y Tecnologías de Procesos de Negocio ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
-Titulo : Escape
+Titulo : Escape - Travel blog 
 
-Autor(es) Daniel, Daniela y Juanjo
+Autor(es) ______________
 
-Resumen : _________
+Resumen : 
 
-logotipo : ________
+logotipo : https://drive.google.com/file/d/14h-LJjUdpFufnkI5B9EbIT6-J1ID3ffC/view?usp=sharing
 
-Slogan (frase motivadora/inspiradora): take a breathe with us
+Slogan (frase motivadora/inspiradora): ________
 
-Hashtag: #escape
+Hashtag #escape
 
 Licencia (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES)
 
 Fecha : 2021
 
-Medios (donde se tiene presencia): Instagram, Twitter, Youtube, Facebook
+Medios (donde se tiene presencia):
 
 :octocat: (github url)
 Twitter
@@ -32,17 +32,21 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 Investigación de campo Desk research propuestas inspiradoras para el proyecto)
 
-@LadyDistopia (link) ...¿ por qué ? Necesidad/oportunidad : Porque debido a la pandemia se intensificó la cantidad de personas que quieren conocer y aprender de otras experiencias ya que por el momento pueden viajar, lo cual aumentó el flujo de visitas a paginas de viajes y agencias.
-Motivación de la propuesta .... ¿ por qué consideras interesante ? : 
+@LadyDistopia (link) ...¿ por qué ?
+(...)
+Necesidad/oportunidad
 
-Personas/Usuarios (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?): Será útil porque las experiencias pasadas están cambiando, tal vez los lugares que antes podias visitar, ahora ya no se pueden, o haya cambiado su manera de cómo se visita, lo cual te permite ver las nuevas maneras de conocer lugares que se han generado, siempre con las medidas necesarias de protección
+Motivación de la propuesta .... ¿ por qué consideras interesante ?
+
+Personas/Usuarios (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?)
 
 Etapa 2: Prototipar / productos
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses)
 
 Imagen visual (Portada / Diseño de Interfaz) y herramienta usada
 
-redes sociales Instagram, Facebook, Youtube
+redes sociales (...)
+
 
 publicidad: banner (... )
 
