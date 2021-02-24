@@ -12,7 +12,7 @@ logotipo : https://drive.google.com/file/d/14h-LJjUdpFufnkI5B9EbIT6-J1ID3ffC/vie
 
 Slogan (frase motivadora/inspiradora): take a breathe with us
 
-Hashtag: #escape
+Hashtag: #escape #travel #viajaseguro #viajar #viajesseguros #Escapetravel
 
 Licencia (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES)
 
