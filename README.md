@@ -39,7 +39,7 @@ Necesidad/oportunidad :Porque debido a la pandemia se intensificó la cantidad d
 
 Motivación de la propuesta .... ¿ por qué consideras interesante ? Será útil porque las experiencias pasadas están cambiando, tal vez los lugares que antes podias visitar, ahora ya no se pueden, o haya cambiado su manera de cómo se visita, lo cual te permite ver las nuevas maneras de conocer lugares que se han generado, siempre con las medidas necesarias de protección
 
-Personas/Usuarios (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?)
+Personas/Usuarios (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?): Publico en general que haya realizado viaje o quiera hacerlo, puesto que la información será útil a todo nivel, tanto para jovenes como para personas mayores. 
 
 Etapa 2: Prototipar / productos
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses)
