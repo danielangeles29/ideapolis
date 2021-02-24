@@ -11,9 +11,9 @@ Resumen : _________
 
 logotipo : ________
 
-Slogan (frase motivadora/inspiradora): ________
+Slogan (frase motivadora/inspiradora): take a breathe with us
 
-Hashtag #escape
+Hashtag: #escape
 
 Licencia (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES)
 
