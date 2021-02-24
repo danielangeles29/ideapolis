@@ -5,7 +5,7 @@ Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión
 
 Titulo : Escape
 
-Autor(es) ______________
+Autor(es) Daniel, Daniela y Juanjo
 
 Resumen : _________
 
