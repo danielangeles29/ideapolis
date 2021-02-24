@@ -4,9 +4,7 @@ Titulo : Escape - Travel blog
 
 Autor(es): Daniel, Daniela y Juanjo
 
-
 Resumen : Comunidad de viajeros para compartir experiencias en tiempos de pandemia y como poder viajar seguros a partir de ahora y en el periodo post-COVID
-
 
 logotipo : https://drive.google.com/file/d/14h-LJjUdpFufnkI5B9EbIT6-J1ID3ffC/view?usp=sharing
 
@@ -20,8 +18,6 @@ Fecha : 2021
 
 Medios (donde se tiene presencia): Instagram, Twitter, Youtube, Facebook
 
-:octocat: (github url)
-Twitter
 ...
 Metodología
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences)
