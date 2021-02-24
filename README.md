@@ -5,7 +5,7 @@ Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión
 
 Titulo : Escape - Travel blog 
 
-Autor(es) ______________
+Autor(es): Daniel, Daniela y Juanjo
 
 
 Resumen : Comunidad de viajeros para compartir experiencias en tiempos de pandemia y como poder viajar seguros a partir de ahora y en el periodo post-COVID
@@ -13,7 +13,7 @@ Resumen : Comunidad de viajeros para compartir experiencias en tiempos de pandem
 
 logotipo : https://drive.google.com/file/d/14h-LJjUdpFufnkI5B9EbIT6-J1ID3ffC/view?usp=sharing
 
-Slogan (frase motivadora/inspiradora): ________
+Slogan (frase motivadora/inspiradora): take a breathe with us
 
 Hashtag #escape
 
@@ -21,7 +21,7 @@ Licencia (usar una creative commons: revisar en https://creativecommons.org/lice
 
 Fecha : 2021
 
-Medios (donde se tiene presencia):
+Medios (donde se tiene presencia): Instagram, Twitter, Youtube, Facebook
 
 :octocat: (github url)
 Twitter
@@ -34,11 +34,10 @@ Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomul
 
 Investigación de campo Desk research propuestas inspiradoras para el proyecto)
 
-@LadyDistopia (link) ...¿ por qué ?
-(...)
-Necesidad/oportunidad
+@LadyDistopia (link) ...¿ por qué ? 
+Necesidad/oportunidad :Porque debido a la pandemia se intensificó la cantidad de personas que quieren conocer y aprender de otras experiencias ya que por el momento pueden viajar, lo cual aumentó el flujo de visitas a paginas de viajes y agencias.
 
-Motivación de la propuesta .... ¿ por qué consideras interesante ?
+Motivación de la propuesta .... ¿ por qué consideras interesante ? Será útil porque las experiencias pasadas están cambiando, tal vez los lugares que antes podias visitar, ahora ya no se pueden, o haya cambiado su manera de cómo se visita, lo cual te permite ver las nuevas maneras de conocer lugares que se han generado, siempre con las medidas necesarias de protección
 
 Personas/Usuarios (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?)
 
