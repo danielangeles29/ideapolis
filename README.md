@@ -34,6 +34,8 @@ Motivación de la propuesta .... ¿ por qué consideras interesante ? Será úti
 
 Personas/Usuarios (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?): Publico en general que haya realizado viaje o quiera hacerlo, puesto que la información será útil a todo nivel, tanto para jovenes como para personas mayores. 
 
+.............................................
+
 Etapa 2: Prototipar / productos
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses)
 
@@ -44,7 +46,7 @@ redes sociales: Instagram, Facebook, Youtube
 
 publicidad: banner: redes sociales, e-mail
 
-...
+.............................................
 
 Etapa 3: Técnicas de evaluación utilizadas
 (Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone)
