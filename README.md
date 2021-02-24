@@ -13,7 +13,7 @@ logotipo : ________
 
 Slogan (frase motivadora/inspiradora): ________
 
-Hashtag ___
+Hashtag #escape
 
 Licencia (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES)
 
