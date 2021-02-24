@@ -1,6 +1,3 @@
-(Nombre del proyecto)
-(Plantilla para la creación de un proyecto en ideapolis)
-
 Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión y Tecnologías de Procesos de Negocio ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
 Titulo : Escape - Travel blog 
