@@ -57,6 +57,7 @@ Etapa 3: Técnicas de evaluación utilizadas
   4. Cantidad de comentarios y reseñas por lugar
   5. Número de usuarios inscritos
   7. Número de publicaciones compartidas en otro sitio 
+  8. Cantidad de links en otras páginas, y las veces que son redireccionados
 
 Test con usuarios (...)
 ...
