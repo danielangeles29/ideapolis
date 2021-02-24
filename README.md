@@ -49,7 +49,14 @@ publicidad: banner: redes sociales, e-mail
 .............................................
 
 Etapa 3: Técnicas de evaluación utilizadas
-(Estrategia que plantearías para evaluar tu propuesta, medidodes e indicadores de éxito, elige / propone)
+(Estrategia que plantearías para evaluar tu propuesta, medidores e indicadores de éxito, elige / propone)
+
+  1. Cantidad de visitas a la página web
+  2. Número de publicaciones compartidas
+  3. Número de lugares comentados
+  4. Cantidad de comentarios y reseñas por lugar
+  5. Número de usuarios inscritos
+  7. Número de publicaciones compartidas en otro sitio 
 
 Test con usuarios (...)
 ...
