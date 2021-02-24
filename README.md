@@ -22,8 +22,10 @@ Medios (donde se tiene presencia): Instagram, Twitter, Youtube, Facebook
 Metodología
 Metodología de desarrollo: Diseño de contenidos digitales mediante estrategia de diseño de Experiencias de usuario (UX experiences)
 
+
+..............................................................................................................................................................................
+
 Etapa 1: Ideación de proyecto
-Actividades realizadas mediante Trello https://trello.com/b/3YjvDccp/proyectomultimedia
 
 Investigación de campo Desk research propuestas inspiradoras para el proyecto)
 
@@ -34,20 +36,19 @@ Motivación de la propuesta .... ¿ por qué consideras interesante ? Será úti
 
 Personas/Usuarios (...¿en quién piensas que puede ser útil ? ¿cual es tu publico objetivo?): Publico en general que haya realizado viaje o quiera hacerlo, puesto que la información será útil a todo nivel, tanto para jovenes como para personas mayores. 
 
-.............................................
+..............................................................................................................................................................................
 
 Etapa 2: Prototipar / productos
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses)
+
+Por realizar en WIX
 
 Imagen visual (Portada / Diseño de Interfaz) y herramienta usada: WIX
 
 redes sociales: Instagram, Facebook, Youtube
 
-
 publicidad: banner: redes sociales, e-mail
-
-.............................................
-
+..............................................................................................................................................................................
 Etapa 3: Técnicas de evaluación utilizadas
 (Estrategia que plantearías para evaluar tu propuesta, medidores e indicadores de éxito, elige / propone)
 
@@ -56,7 +57,8 @@ Etapa 3: Técnicas de evaluación utilizadas
   3.Realizar focus group
   4.Validar el éxito de otras páginas o apps similares
 
-Forma de evaluar el desempeño del producto, una vez puesto en marcha
+Forma de evaluar el desempeño del producto, una vez puesto en marcha:
+
   1. Cantidad de visitas a la página web
   2. Número de publicaciones compartidas
   3. Número de lugares comentados
@@ -65,6 +67,9 @@ Forma de evaluar el desempeño del producto, una vez puesto en marcha
   7. Número de publicaciones compartidas en otro sitio 
   8. Cantidad de links en otras páginas, y las veces que son redireccionados
 
+
+
+..............................................................................................................................................................................
 Test con usuarios (...)
 ...
 Conclusiones y trabajo futuro
