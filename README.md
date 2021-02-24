@@ -7,7 +7,9 @@ Titulo : Escape - Travel blog
 
 Autor(es) ______________
 
-Resumen : 
+
+Resumen : Comunidad de viajeros para compartir experiencias en tiempos de pandemia y como poder viajar seguros a partir de ahora y en el periodo post-COVID
+
 
 logotipo : https://drive.google.com/file/d/14h-LJjUdpFufnkI5B9EbIT6-J1ID3ffC/view?usp=sharing
 
