@@ -45,7 +45,7 @@ Etapa 2: Prototipar / productos
 
 Imagen visual (Portada / Diseño de Interfaz) y herramienta usada
 
-redes sociales (...)
+redes sociales Instagram, Facebook, Youtube
 
 publicidad: banner (... )
 
