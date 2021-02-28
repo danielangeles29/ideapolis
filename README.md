@@ -88,23 +88,10 @@ Problemas identificados:
 - Falta de conocimientos informáticos para desarrollar la red y ponerla online;
 - Poco tiempo para poder profundizar y desarrollar más la idea. Además de que es complicado coordinar las agendas de todos los miembros del equipo
 
-Propuestas de mejora (por qué consideras que merece la pena continuar)
+Propuestas de mejora 
+La situación actual que estamos viviendo de la pandemia se alargará en el tiempo y la forma de viajar ha cambiado definitivamente, una pagina que te informa de la mejor forma de hacerlo además al ser en rede permite que esta esté siempre muy actualizada ya que la información llega de varias localizaciones y de varias personas. Toda la populación tiene muchas ganas de volver a su vida normal y de volver a viajar, así que la pagina sería muy bien aceptada.
 
-
-Posible interés del proyecto (¿ Quien podría colaborar / involucrarse en el proyecto? ¿viable?)
-Referencias y recursos:
-
-Artículos ..
-Productos utilizados
-Propuestas de mejora
-(...)
-
-Referencias y recursos utilizados :
-
-Proceso UX
-Diseño de Experiencias UX
-Métodos UX
-MuseMap: ejemplo de experiencia UX
-(...)
-(...)
+Posible interés del proyecto:
+- Sería interesante tener una colaboración con hoteles, agencias de viajes, compañías de transporte, donde estas podrían compartir información a través de nuestra rede. De nuevo mejoraríamos nuestro alcance y contenido.
+- Tener algunas personas en la rede con mayor alcance público, como influencers, que pudieran publicitar nuestra rede. Aunque seria imposible de controlar que tipo de opinión transmitirían así que seria un riesgo al mismo tiempo. 
 
