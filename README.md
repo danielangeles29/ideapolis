@@ -41,7 +41,7 @@ Personas/Usuarios (...¿en quién piensas que puede ser útil ? ¿cual es tu pub
 Etapa 2: Prototipar / productos
 (Productos que has desarrollado y como se plantea la integración de los diferentes medios, pon los que uses)
 
-Por realizar en WIX
+https://juanjort58.wixsite.com/my-site-2
 
 Imagen visual (Portada / Diseño de Interfaz) y herramienta usada: WIX
 
