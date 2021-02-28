@@ -12,7 +12,7 @@ Slogan (frase motivadora/inspiradora): take a breathe with us
 
 Hashtag: #escape #travel #viajaseguro #viajar #viajesseguros #Escapetravel
 
-Licencia (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES)
+Licencia: Reconocimiento CC BY (usar una creative commons: revisar en https://creativecommons.org/licenses/?lang=es_ES)
 
 Fecha : 2021
 
@@ -72,10 +72,25 @@ Forma de evaluar el desempeño del producto, una vez puesto en marcha:
 ..............................................................................................................................................................................
 Test con usuarios (...)
 ...
-Conclusiones y trabajo futuro
-Grado de consecución del proyecto
-Problemas identificados (técnicos / sobre la idea inicial / planificacion… )
+Conclusiones y trabajo futuro: 
+Para el desarrollo del proyecto ha sido notoria la importancia de un equipo en el desarrollo de nuevas ideas, ya que las distintas visiones y tipos de formación de cada miembro es muy heterogenia así que las aportaciones de cada uno hacen con que el resultado del proyecto sea más fuerte y original. Igualmente, para debatir las ideas y llegar a una conclusión nos hemos dado cuenta que teníamos que invertir un gran cantidad de tiempo, siendo que los miembros del equipo tienen opiniones muy distintas y habría que llegar a un consenso, como igual somos un equipo nuevo, que nunca habíamos trabajado en un proyecto solamente los tres lleva es normal que haya un proceso de aprendizaje entre los miembros y seguramente en un segundo proyecto avanzaríamos de una forma mucho más eficiente.
+Como trabajo en un futuro como se ha referido en el capítulo anterior, antes de activar este proyecto deberíamos hacer un estudio de mercado, realizar encuestas a amigos para ver su interés por la comunidad y incluso validar el éxito de otras paginas o apps similares, esto como primer paso. Una vez decidido que efectivamente se trata de una buena idea y que tendrá suceso 
+
+Grado de consecución del proyecto:
+1-	Definir de la estructura del proyecto. Estrategia, misión, objetivos y target;
+2-	Creación del logotipo y slogan del proyecto;
+3-	Ejecución de la página web;
+4-	Criado una presentación comercial del proyecto.
+
+
+Problemas identificados: 
+- La concepción de la idea inicial ha sido un proceso difícil, ya que nuestra parte creativa no estaba demasiado entrenada, aunque teníamos varias ideas inicialmente, pero eran muy generales. Y poco a poco le hemos ido dando forma, nos ha ayudado bastante que el profesor Miguel nos dirigiera en ese proceso de construcción del proyecto usando varias estrategias.
+- Falta de conocimientos informáticos para desarrollar la red y ponerla online;
+- Poco tiempo para poder profundizar y desarrollar más la idea. Además de que es complicado coordinar las agendas de todos los miembros del equipo
+
 Propuestas de mejora (por qué consideras que merece la pena continuar)
+
+
 Posible interés del proyecto (¿ Quien podría colaborar / involucrarse en el proyecto? ¿viable?)
 Referencias y recursos:
 
@@ -93,6 +108,3 @@ MuseMap: ejemplo de experiencia UX
 (...)
 (...)
 
-(Artículos .. )
-(Productos utilizados )
-(Recursos tipo Imágenes, videos , etc.)
