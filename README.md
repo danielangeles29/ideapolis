@@ -1,5 +1,7 @@
 Proyecto de Inteligencia Colectiva y Formación en la Empresa Master en Gestión y Tecnologías de Procesos de Negocio ETS Ingeniería Informatica y de Telecomunicación Univesidad de Granada
 
+Presentación: https://www.powtoon.com/s/buMTwDWq7kH/1/m
+
 Titulo : Escape - Travel blog 
 
 Autor(es): Daniel, Daniela y Juanjo
